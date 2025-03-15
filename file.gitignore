@@ -1,0 +1,11 @@
+# Ignore IDE & cache files
+.idea/
+.cache/
+__pycache__/
+
+# Ignore database
+db.sqlite3
+
+# Ignore compiled files
+*.pyc
+*.pyo
